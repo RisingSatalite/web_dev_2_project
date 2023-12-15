@@ -1,0 +1,30 @@
+[
+    {
+       
+        "name": "Paul Sholter",
+        "email":"hohoho@hotmail.com",
+        "birthday": "1983-22-18",
+        "hiredate": "2023-12-15"
+    },
+    {
+        
+        "name": "Andres  Chacon Pachon",
+        "email":"boohoo@hotmail.com",
+        "birthday": "2005-1-04",
+        "hiredate": "2023-06-1"
+    },
+    {
+       
+        "name": "Saihaj Mann",
+        "email":"ohno@hotmail.com",
+        "birthday": "2000-12-06",
+        "hiredate": "2023-01-28"
+    },
+    {
+       
+        "name": "Guntas Singh Dhaliwal",
+        "email":"woohoo@hotmail.com",
+        "birthday": "2000-10-25",
+        "hiredate": "2023-11-14"
+    }
+]
